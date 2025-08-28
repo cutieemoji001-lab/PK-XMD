@@ -169,8 +169,8 @@
   },
   "buildpacks": [
     {
-      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
-    }
+      "url": "t.me/H3ndr3xx"
+  }
   ],
-  "stack": "heroku-24"
+  "stack": "telegram"
     }
