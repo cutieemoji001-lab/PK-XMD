@@ -169,7 +169,7 @@
   },
   "buildpacks": [
     {
-      "url": "t.me/H3ndr3xx"
+      "url": "t.me/H3ndr3xx/bot"
   }
   ],
   "stack": "telegram"
